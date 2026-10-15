@@ -22,6 +22,19 @@ Runs seamlessly on **Node.js, Bun, Deno, and Client-Side Web Browsers** without 
 
 ---
 
+## Multi-Language Ecosystem
+
+WordTemplater is available across multiple programming languages with matching template syntax and feature parity:
+
+| Language | Repository | Package / Install |
+| :--- | :--- | :--- |
+| **TypeScript / JavaScript** *(This repository)* | [WordTemplater-ts](https://github.com/luuducly/WordTemplater-ts) | `npm install wordtemplater-ts` |
+| **C# (.NET)** | [WordTemplater](https://github.com/luuducly/WordTemplater) | `dotnet add package WordTemplater` |
+| **Python** | [WordTemplater-python](https://github.com/luuducly/WordTemplater-python) | `pip install wordtemplater` |
+| **Java** | [WordTemplater-java](https://github.com/luuducly/WordTemplater-java) | `com.github.luuducly:wordtemplater` |
+
+---
+
 ## Installation
 
 ```bash
